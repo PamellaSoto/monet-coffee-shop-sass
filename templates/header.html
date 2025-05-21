@@ -1,9 +1,13 @@
-class Header extends HTMLElement {
-    constructor() {
-        super();
-    }
-    connectedCallback() {
-        this.innerHTML = `<header class="header">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../assets/css/config/main.css">
+</head>
+<body>
+    <header class="header">
         <nav>
             <ul class="nav__menu">
                 <li>
@@ -23,19 +27,6 @@ class Header extends HTMLElement {
                 </li>
             </ul>
         </nav>
-    </header>`;
-    }
-}
-
-customElements.define('header-component', Header);
-
-class Footer extends HTMLElement {
-    constructor() {
-        super();
-    }
-    connectedCallback() {
-        this.innerHTML = ``;
-    }
-}
-
-customElements.define('footer-component', Footer);
+    </header>
+</body>
+</html>

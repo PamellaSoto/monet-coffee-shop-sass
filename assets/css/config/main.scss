@@ -1,11 +1,6 @@
 @use '../layout/footer';
-
-// Reset CSS
-* {
-    margin: 0; padding: 0;
-    list-style-type: none;
-    text-decoration: none;
-}
+@use '../layout/header';
+@use '../config/reset';
 
 // Global styling
 body {

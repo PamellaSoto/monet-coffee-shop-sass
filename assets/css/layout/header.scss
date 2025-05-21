@@ -1,0 +1,26 @@
+%transition {
+    transition: all 0.2s ease;
+}
+.header {
+    position: absolute;
+    padding: 32px 24px;
+}
+
+.nav__menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 128px;
+
+    img {
+        max-width: 150px;
+    }
+}
+.nav__item {
+    @extend %transition;
+    padding-bottom: 5px;
+    border-bottom: 2px solid transparent;
+    &:hover {
+        border-bottom: 2px solid saddlebrown;
+    }
+}

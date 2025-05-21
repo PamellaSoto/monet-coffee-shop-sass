@@ -1,0 +1,36 @@
+Header
+Logo: "Monet's Coffee Shop" in elegant script with a small watercolor coffee cup icon
+Navigation: Home | Menu | About | Contact | Order Online
+
+Hero Section (Main Banner)
+Headline: "Monet's Coffee Shop - Where Art Meets Craft"
+Subhead: "Serving the finest coffee in Central Park since 2012"
+Background: Watercolor-style image of a coffee cup with Central Park in the background
+CTA Button: "View Our Menu" | "Order Online"
+
+About Section
+"Monet's Coffee Shop was founded by two art students who fell in love with coffee craftsmanship. Inspired by the impressionist masters and the vibrant energy of Central Park, we've created a space where every cup is a work of art. Our beans are ethically sourced from small farms, and our pastries are baked fresh daily using traditional French techniques."
+
+Featured Menu Items
+Coffees
+Teas
+Non-Coffee Drinks
+Cakes
+Savory
+Bakery
+
+
+Visit Us
+Address: 200 Central Park West, New York, NY 10024
+Hours: Monday-Friday 7am-7pm | Saturday-Sunday 8am-8pm
+Phone: (212) 555-0199
+Email: hello@monetscoffee.nyc
+
+Footer
+Social Media Icons: Instagram | Facebook | Twitter
+Newsletter Signup: "Stay updated on seasonal offerings and events"
+Copyright: © 2023 Monet's Coffee Shop. All rights reserved.
+Additional Links: Privacy Policy | Careers | Wholesale Inquiries
+
+Seasonal Promotion Banner
+"Try our new Autumn Collection - Limited time flavors inspired by the changing leaves of Central Park. Order online for park-side pickup!"
