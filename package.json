@@ -1,0 +1,13 @@
+{
+  "name": "monet-coffee-shop-sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "@PamellaSoto",
+  "license": "ISC",
+  "description": "A beautiful coffee shop inspired by Monet's Painting",
+  "devDependencies": {
+    "sass": "^1.89.0"
+  }
+}
