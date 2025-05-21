@@ -1,6 +1,7 @@
+@use '../config/reset';
 @use '../layout/footer';
 @use '../layout/header';
-@use '../config/reset';
+@use '../layout/homepage.scss';
 
 // Global styling
 body {
@@ -8,7 +9,7 @@ body {
     width: 100vw;
 }
 .boxed-layout {
-    max-width: 80vw;
+    position: relative;
+    max-width: 75vw;
     margin: 0 auto;
-    background-color: azure;
 }
